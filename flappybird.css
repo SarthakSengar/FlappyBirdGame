@@ -1,0 +1,24 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url("bodybackground.jpg");
+    background-size: cover;
+}
+
+#board {
+    /* background-color: skyblue; */
+    background-image: url("./flappybirdbg.png");
+    border-radius: 10px; 
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); 
+    border: 10px solid #ffffff;
+    
+}
+
+h1{
+    color: #ffffff; 
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+    margin-bottom: 10px;
+}
